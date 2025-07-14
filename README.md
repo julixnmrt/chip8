@@ -29,4 +29,4 @@ cargo run --lib chip8
 
 Voici une page qui explique en detaille le fonctionnement et comme le faire de a à Z : 
 
-https://github.com/julixnmrt/chip8-web/settings/pages
+https://github.com/julixnmrt/chip8-web/
