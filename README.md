@@ -25,8 +25,8 @@ cd chip8-emulator
 cargo run --lib chip8
 ```
 
-## Apprendre a le faire de 0 
+## Apprendre à le faire de A à Z
 
-Voici une page qui explique en detaille le fonctionnement et comme le faire de a à Z : 
+Voici une page qui explique en détail le fonctionnement et comment créer ton propre émulateur CHIP-8 :
 
-https://github.com/julixnmrt/chip8-web/
+🔗 [https://julixnmrt.github.io/chip8-web/](https://julixnmrt.github.io/chip8-web/)
